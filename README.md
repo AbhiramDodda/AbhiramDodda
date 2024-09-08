@@ -14,7 +14,7 @@
 </p>
 
 
-
+<!--
 <h3 align="center">TECHNOLOGIES</h3>
 
 <img src="https://github.com/kvenkatamar/kvenkatamar/blob/main/skills3.gif?raw=true" width="300px" height="250px" align="right" style="transform: scale(1.1)">
@@ -38,9 +38,8 @@
 ![MongoDB](https://img.shields.io/badge/MongoDB-%2347A248.svg?style=for-the-badge&logo=mongodb&logoColor=white)
 ![GitHub](https://img.shields.io/badge/GitHub-%23181717.svg?style=for-the-badge&logo=github&logoColor=white)
 ![Visual Studio Code](https://img.shields.io/badge/Visual_Studio_Code-%23007ACC.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white)
-<br>
-
-<!-- <h4>🛠️ Technologies:</h4> -->
+<be>
+-->
 
 <hr>
 
@@ -57,11 +56,11 @@
     <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=AbhiramDodda&theme=github_dark" width="520px"/>
 </p>
 
-<p align="center">
+<!-- <p align="center">
     <a href="https://leetcode.com/abhiramdodda" style="display: inline-block">
         <img width="40%" src="https://leetcode.card.workers.dev/abhiramdodda?theme=dark&font=baloo&extension=null&border=2&border_radius=8">
     </a>
-</p>
+</p> -->
 
 </hr>
 
