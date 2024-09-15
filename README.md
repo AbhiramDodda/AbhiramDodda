@@ -63,6 +63,14 @@
 </p> -->
 
 </hr>
+<hr>
+<p align="center">
+    "Be a Bamboo"
+</p>
+<p align="center">
+    <img src="https://github.com/AbhiramDodda/AbhiramDodda/blob/main/transparent-bamboo-22.png" width="270px"/>
+</p>
+</hr>
 
 <a href="https://www.linkedin.com/in/abhiramdodda">
    <img align="left" alt="Abhiram Dodda | Linkedin" width="24px" src="https://www.vectorlogo.zone/logos/linkedin/linkedin-icon.svg" />
