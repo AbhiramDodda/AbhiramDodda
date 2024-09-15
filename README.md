@@ -68,7 +68,7 @@
     "Be a Bamboo"
 </p>
 <p align="center">
-    <img src="https://github.com/AbhiramDodda/AbhiramDodda/blob/main/transparent-bamboo-22.png" width="270px"/>
+    <img src="https://github.com/AbhiramDodda/AbhiramDodda/blob/main/transparent-bamboo-22.png" width="200px"/>
 </p>
 </hr>
 
