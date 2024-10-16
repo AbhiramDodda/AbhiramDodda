@@ -8,7 +8,7 @@
 
 <p align="center">
     <em>
-        This is me <b>Abhiram Dodda</b>, a 4th year <b>Computer Science</b> undergraduate from <a href="https://www.griet.ac.in/" color="white"> <b>Gokaraju Rangaraju Institute of Engineering and Technology</b>, Hyderabad</a>. I am currently exploring the realms of Machine Learning and Deep Learning.
+        This is me <b>Abhiram Dodda</b>, a 4th year <b>Computer Science</b> undergraduate from <a href="https://www.griet.ac.in/" color="white"> <b>Gokaraju Rangaraju Institute of Engineering and Technology</b>, Hyderabad</a>. I am currently exploring the realms of Machine Learning and Deep Learning. I write about Machine Learning and my inspirations on [Medium](https://medium.com/@abhiramdodda).
         <br>
     </em>
 </p>
