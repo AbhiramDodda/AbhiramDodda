@@ -13,6 +13,8 @@
     </em>
 </p>
 
+[![trophy](https://github-profile-trophy.vercel.app/?username=AbhiramDodda&theme=onedark&title=MultiLanguage,Repositories,Stars,Followers,Commits,Experience,PullRequest&margin-w=15)](https://github-profile-trophy.vercel.app/?username=AbhiramDodda)
+
 
 <!--
 <h3 align="center">TECHNOLOGIES</h3>
