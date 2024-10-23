@@ -69,9 +69,9 @@
 <p align="center">
     "Be a Bamboo"
 </p>
-<p align="center">
-    <img src="https://github.com/AbhiramDodda/AbhiramDodda/blob/main/transparent-bamboo-22.png" width="200px"/>
-</p>
+<p align="center"><a href="https://medium.com/@abhiramdodda/inspiration-from-bamboo-d1d000e8eef3">
+    <img src="https://github.com/AbhiramDodda/AbhiramDodda/blob/main/transparent-bamboo-22.png" width="200px" align="center" />
+</a></p>
 </hr>
 
 <a href="https://www.linkedin.com/in/abhiramdodda">
