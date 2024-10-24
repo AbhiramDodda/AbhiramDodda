@@ -2,13 +2,13 @@
 <h1 align="center">Hi there I am Abhiram</h1>
 
 <!-- <p align="center"> -->
-<h3 align="center" color="green"> Programmer | ML Enthusiast </h3>
+<h3 align="center" color="green"> Programmer | ML Enthusiast | Researcher </h3>
 <!-- </p> -->
 
 
 <p align="center">
     <em>
-        This is me <b>Abhiram Dodda</b>, a 4th year <b>Computer Science</b> undergraduate from <a href="https://www.griet.ac.in/" color="white"> <b>Gokaraju Rangaraju Institute of Engineering and Technology</b>, Hyderabad</a>. I am currently exploring the realms of Machine Learning and Deep Learning. I write about Machine Learning and my inspirations on Medium .
+        This is me <b>Abhiram Dodda</b>, a 4th year <b>Computer Science</b> undergraduate from <a href="https://www.griet.ac.in/" color="white"> <b>Gokaraju Rangaraju Institute of Engineering and Technology</b>, Hyderabad</a>. I am currently exploring the realms of Machine Learning and Deep Learning. I write about Machine Learning and my inspirations on Medium.
         <br>
     </em>
 </p>
