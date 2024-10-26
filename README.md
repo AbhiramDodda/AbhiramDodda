@@ -13,6 +13,9 @@
     </em>
 </p>
 
+<hr>
+
+
 [![trophy](https://github-profile-trophy.vercel.app/?username=AbhiramDodda&theme=onedark&title=MultiLanguage,Repositories,Stars,Followers,Commits,Experience,PullRequest&margin-w=15)](https://github-profile-trophy.vercel.app/?username=AbhiramDodda)
 
 
@@ -43,7 +46,7 @@
 <be>
 -->
 
-<hr>
+
 
 <p align="center">
  <img src="https://media.giphy.com/media/W5eoZHPpUx9sapR0eu/giphy.gif" width="30px" height="30px" alt="Git"/><i><b>GIT ACTIVENESS</b></i>
