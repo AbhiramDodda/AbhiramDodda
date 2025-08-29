@@ -16,10 +16,10 @@
 <hr>
 
 
-[![trophy](https://github-profile-trophy.vercel.app/?username=AbhiramDodda&theme=onedark&title=MultiLanguage,Repositories,Stars,Followers,Commits,Experience,PullRequest&margin-w=15)](https://github-profile-trophy.vercel.app/?username=AbhiramDodda)
+ <!--[![trophy](https://github-profile-trophy.vercel.app/?username=AbhiramDodda&theme=onedark&title=MultiLanguage,Repositories,Stars,Followers,Commits,Experience,PullRequest&margin-w=15)](https://github-profile-trophy.vercel.app/?username=AbhiramDodda)
 
 
-<!--
+
 <h3 align="center">TECHNOLOGIES</h3>
 
 <img src="https://github.com/kvenkatamar/kvenkatamar/blob/main/skills3.gif?raw=true" width="300px" height="250px" align="right" style="transform: scale(1.1)">
