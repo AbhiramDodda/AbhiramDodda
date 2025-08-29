@@ -8,7 +8,7 @@
 
 <p align="center">
     <em>
-        This is me <b>Abhiram Dodda</b>, a <b>Computer Science</b> graduate from <a href="https://www.psu.edu" color="white"> <b>Penn State</b>, Hyderabad</a>. I am currently exploring the realms of Machine Learning and Deep Learning. I write about Machine Learning and my inspirations on Medium.
+        This is me <b>Abhiram Dodda</b>, a <b>Computer Science</b> graduate from <a href="https://www.psu.edu" color="white"> <b>Penn State</b></a>. I am currently exploring the realms of Machine Learning and Deep Learning. I write about Machine Learning and my inspirations on Medium.
         <br>
     </em>
 </p>
