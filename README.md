@@ -1,93 +1,46 @@
+# Hi, I'm Abhiram Dodda 👋
 
-<h1 align="center">Hi there I am Abhiram</h1>
+I am a Computer Science graduate student at [Penn State](https://www.psu.edu), passionate about building high-performance systems and exploring the intersection of distributed systems, parallel processing, and machine learning.
 
-<!-- <p align="center"> -->
-<h3 align="center" color="green"> Programmer | ML Enthusiast | Researcher </h3>
-<!-- </p> -->
+Currently, I am an SDE Intern at AWS.
 
+---
 
-<p align="center">
-    <em>
-        This is me <b>Abhiram Dodda</b>, a <b>Computer Science</b> graduate student from <a href="https://www.psu.edu" color="white"> <b>Penn State</b></a>. I am currently exploring the realms of Machine Learning and Deep Learning. I write about Machine Learning and my inspirations on Medium.
-        <br>
-    </em>
-</p>
+### 🚀 Featured Experience
 
+**Software Development Intern | AWS (Redshift Control Plane)**
+* Built a discrete-event simulator in Java/Kotlin that replayed 6.5M+ events to predict host counts and reservation impacts.
+* Achieved 0.1% error in steady-state validation by reverse-engineering production source code and fixing critical modeling bugs.
 
+**Software Development Intern | Platform3Solutions**
+* Architected a self-hosted RAG pipeline using Llama 3 and Flask, serving 500+ users with <200ms latency.
+* Optimized retrieval precision by 76% using hierarchical metadata filtering in ChromaDB.
 
+---
 
- <!--[![trophy](https://github-profile-trophy.vercel.app/?username=AbhiramDodda&theme=onedark&title=MultiLanguage,Repositories,Stars,Followers,Commits,Experience,PullRequest&margin-w=15)](https://github-profile-trophy.vercel.app/?username=AbhiramDodda)
+### 🛠 Technical Projects
 
+* **Petabyte-Scale Distributed Image Platform** 
+    * Built in Go with gRPC, Raft consensus, and consistent hashing.
+    * Sustained 1.17 GB/s aggregate scan throughput using a two-stage failure detector.
+* **Distributed ML Inference Engine** 
+    * Engineered a C++17 system using ONNX and CUDA for heterogeneous hardware support.
+    * Achieved 522.64 req/sec throughput with a 99.7% cache hit rate.
 
+---
 
-<h3 align="center">TECHNOLOGIES</h3>
+### 💻 Tech Stack
+* **Languages:** Go, Java, Kotlin, C/C++, Python, SQL
+* **Systems:** Distributed Systems (Raft, gRPC), Multi-threading, Circuit Breakers
+* **Cloud/Data:** AWS, Docker, Linux, PostgreSQL, NoSQL
+* **ML:** PyTorch, TensorFlow, CUDA, ONNX, scikit-learn
 
-<img src="https://github.com/kvenkatamar/kvenkatamar/blob/main/skills3.gif?raw=true" width="300px" height="250px" align="right" style="transform: scale(1.1)">
+---
 
-![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=java&logoColor=white)
-![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white)
-![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
-![TailwindCSS](https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white) 
-![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
-![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
-![SQL](https://img.shields.io/badge/SQL-%23E89E0C.svg?style=for-the-badge&logo=sql&logoColor=white)
-![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
-![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
-![MySQL](https://img.shields.io/badge/MySQL-%2300599C.svg?style=for-the-badge&logo=mysql&logoColor=white)
-![Firebase](https://img.shields.io/badge/firebase-%23039BE5.svg?style=for-the-badge&logo=firebase)
-![Flask](https://img.shields.io/badge/Flask-%23000000.svg?style=for-the-badge&logo=flask&logoColor=white)
-![TensorFlow](https://img.shields.io/badge/TensorFlow-%23FF6F00.svg?style=for-the-badge&logo=tensorflow&logoColor=white)
-![Linux](https://img.shields.io/badge/Linux-%23FCC624.svg?style=for-the-badge&logo=linux&logoColor=black)
-![Bootstrap](https://img.shields.io/badge/Bootstrap-%23563D7C.svg?style=for-the-badge&logo=bootstrap&logoColor=white)
-![MongoDB](https://img.shields.io/badge/MongoDB-%2347A248.svg?style=for-the-badge&logo=mongodb&logoColor=white)
-![GitHub](https://img.shields.io/badge/GitHub-%23181717.svg?style=for-the-badge&logo=github&logoColor=white)
-![Visual Studio Code](https://img.shields.io/badge/Visual_Studio_Code-%23007ACC.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white)
-<be>
--->
+### 🎋 "Be a Bamboo"
+I draw inspiration from the bamboo philosophy—growth requires patience, resilience, and building a strong foundation. [Read more on Medium](https://medium.com/@abhiramdodda/inspiration-from-bamboo-d1d000e8eef3).
 
+---
 
-
-<!-- <p align="center">
- <img src="https://media.giphy.com/media/W5eoZHPpUx9sapR0eu/giphy.gif" width="30px" height="30px" alt="Git"/><i><b>GIT ACTIVENESS</b></i>
-</p>
-
-<p align="center">
-    <img src="https://github-readme-stats.vercel.app/api?username=AbhiramDodda&show_icons=true&theme=github_dark&hide_border=true" width="400px"/>
-    <!--<img src="https://github-readme-streak-stats.herokuapp.com/?user=AbhiramDodda&theme=github-dark-blue&hide_border=true" width="420px"/>-->
-<!-- </p>
-<p align="center">
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=AbhiramDodda&theme=algolia&layout=compact" width="270px"/>
-    <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=AbhiramDodda&theme=github_dark" width="520px"/>
-</p> --> 
-
-<!-- <p align="center">
-    <a href="https://leetcode.com/abhiramdodda" style="display: inline-block">
-        <img width="40%" src="https://leetcode.card.workers.dev/abhiramdodda?theme=dark&font=baloo&extension=null&border=2&border_radius=8">
-    </a>
-</p> -->
-
-</hr>
-<hr>
-<p align="center">
-    "Be a Bamboo"
-</p>
-<p align="center"><a href="https://medium.com/@abhiramdodda/inspiration-from-bamboo-d1d000e8eef3">
-    <img src="https://github.com/AbhiramDodda/AbhiramDodda/blob/main/transparent-bamboo-22.png" width="200px" align="center" />
-</a></p>
-</hr>
-
-<a href="https://www.linkedin.com/in/abhiramdodda">
-   <img align="left" alt="Abhiram Dodda | Linkedin" width="24px" src="https://www.vectorlogo.zone/logos/linkedin/linkedin-icon.svg" />
-</a>
-<a href="mailto:abhiramdodda@gmail.com">
-    <img align="left" alt="Abhiram | Gmail" width="26px" src="https://www.vectorlogo.zone/logos/gmail/gmail-icon.svg" />
-</a>
-<a href="https://twitter.com/DoddaAbhiram">
-    <img align="left" alt="Abhiram | Twitter" width="26px" src="https://www.vectorlogo.zone/logos/twitter/twitter-official.svg" />
-</a>
-
-<br>
-<br>
-
-<p align="right" > <img src="https://komarev.com/ghpvc/?username=AbhiramDodda&label=Profile%20views&color=0e75b6&style=flat" alt="AbhiramDodda" /> </p>
+### 📫 Connect with me
+[LinkedIn](https://www.linkedin.com/in/abhiramdodda) | [Portfolio/Website](https://abhiramdodda.github.io) | [Email](mailto:abhiramdodda@gmail.com)
